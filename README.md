@@ -11,7 +11,7 @@ automation_project/
 
 ├── email_automation/
 
-│   ├── send_email.py          # Script for sending automated emails
+│   ├── send_email.py            # Script for sending automated emails
 
 │   └── email_template.py      # Optional template script for email generation
 
